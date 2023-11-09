@@ -8,7 +8,7 @@
 }
 
 .content-login {
-	width: 50%;
+	width: 70%;
 	height: 70%;
 }
 
@@ -27,6 +27,8 @@
 .welcome {
 	text-align: center;
 	font-weight: bold;
+	margin-top: 10%;
+	margin-bottom: 10%;
 }
 
 .circus-logo {
@@ -105,4 +107,20 @@
 
 .checkbox-label {
 	padding-left: 10%;
+}
+
+.todo-notes {
+	margin-top: 10%;
+	font-size: 40%;
+	display: flex;
+    flex-flow: column;
+}
+
+.todo-notes-title {
+	border-bottom: 1px solid #000;
+	width: fit-content;
+}
+
+.striked {
+	text-decoration: line-through;
 }
