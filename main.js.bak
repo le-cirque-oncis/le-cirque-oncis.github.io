@@ -1,7 +1,7 @@
 function submit() {
 	const password = document.getElementById("passwordInput").value;
 	
-	if (password.toUpperCase() === "MARGUERITE" || password === "felix il est trop fort") {
+	if (password.toUpperCase() === "JMMNPPRRS" || password === "felix il est trop fort") {
 		document.getElementById("loginPage").setAttribute("hidden", "true");
 		document.getElementById("homePage").removeAttribute("hidden");
 	} else {

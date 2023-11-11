@@ -13,7 +13,7 @@
 			<div class="welcome">Bienvenue sur notre site officiel</div>
 			<div class="content-login">
 				<div class="title">
-					<img class="circus-logo" src="img/circus_bear.gif"/>
+					<img class="circus-logo" src="https://i.gifer.com/origin/72/7266844b8c6688999f02ad4bd6a31754_w200.gif"/>
 				</div>
 					<div class="mb-3">
 						<label for="passwordInput" class="form-label">Veuillez renseigner votre mot de passe pour accéder à votre espace personnel :</label>
